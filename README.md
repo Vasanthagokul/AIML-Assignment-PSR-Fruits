@@ -1,1 +1,1 @@
-# AIML-Assignment-PSR-Fruits
+# AIML-Assignment-PSR-Fruits-Classification
